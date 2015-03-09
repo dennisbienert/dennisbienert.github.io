@@ -11,7 +11,7 @@ body {
     color: #6a737b;
 }
 
-h1#logo {
+h1.logo {
   padding:10px 0px 0px 0px;
   font-family: 'Rock Salt', cursive;
   font-size:0.9em;
